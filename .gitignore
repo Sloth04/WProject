@@ -128,7 +128,6 @@ dmypy.json
 *.pyc
 __pycache__
 media
-site_guild/static/
 
 # Backup files #
 *.bak
@@ -192,3 +191,4 @@ Control.ca-list
 Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
+/site_guild/site_guild/static/
