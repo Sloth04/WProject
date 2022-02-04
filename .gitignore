@@ -128,7 +128,7 @@ dmypy.json
 *.pyc
 __pycache__
 media
-static
+site_guild/static/
 
 # Backup files #
 *.bak
